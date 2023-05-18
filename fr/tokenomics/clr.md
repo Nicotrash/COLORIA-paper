@@ -1,4 +1,4 @@
-# CLR
+# CLR ( CREATIVE LIMITLESS REALITY )
 
 Le CLR est le token principal utilisé pour toutes les transactions et activités sur la plateforme COLORIA, y compris l'achat de biens et services, et les récompenses pour la contribution à l'écosystème COLORIA.
 
